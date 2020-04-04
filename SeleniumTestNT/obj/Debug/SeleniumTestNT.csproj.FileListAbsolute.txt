@@ -1,0 +1,15 @@
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\SeleniumTestNT.exe.config
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\SeleniumTestNT.exe
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\SeleniumTestNT.pdb
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\WebDriver.dll
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\WebDriver.Support.dll
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\WebDriver.xml
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\bin\Debug\WebDriver.Support.xml
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.csprojAssemblyReference.cache
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.Form1.resources
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.Properties.Resources.resources
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.csproj.GenerateResource.cache
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.csproj.CoreCompileInputs.cache
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.csproj.CopyComplete
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.exe
+C:\WindowsFormProjelerC#\SeleniumTestNT\SeleniumTestNT\obj\Debug\SeleniumTestNT.pdb
